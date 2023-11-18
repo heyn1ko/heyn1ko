@@ -10,7 +10,7 @@
 
 Hello, I’m Niko - a full-stack web developer with a background in applied and fine arts. 
 
-As a creative, I have a naturally curious mind-set focused on problem-solving and while I enjoy back-end challenges - front-end will always feels natural.
+As a creative, I embrace a problem-solving mindset driven by curiosity and while I enjoy back-end technologies, front-end feels more natural.
 
 My focus is on digital a11y , while  improving on Javascript, React.js, Next.js, HTML, CSS, Tailwind, and Figma.
 I'm all in for adapting, constantly learning and getting better, big on teamwork and collaborations. They keep me inspired and help me grow.
