@@ -1,29 +1,55 @@
-# Niko Fotopoulos
+<h1 align="left">Hey - I'm NIko ;)</h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheyn1ko%2Fheyn1ko&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+###
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikofotopoulos/)
+<p align="left">I'm a Frontend, leaning Full Stack Developer. I have a background in graphic design and fine arts, and a soft spot for UX/UI and digital a11y.</p>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fottopoulos@gmail.com)
+###
 
-[![Github](https://img.shields.io/github/followers/heyn1ko?label=Follow&style=social)](https://github.com/heyn1ko)
+<h2 align="left">About me</h2>
 
-Hello, I’m Niko - a full-stack web developer with a background in applied and fine arts. 
+###
 
-As a creative, I embrace a problem-solving mindset driven by curiosity and while I enjoy back-end technologies, front-end feels more natural.
+<p align="left">✨ Creating bugs since summer 23 - possibly my last careless summer. <br>📚 I'm currently developing with React, JS, Typescript,  Next.js, CSS, Tailwind and flirting at times with StyleX - but I first I need to get better with the rest!<br>🎯 Goals: I'd like to practice daily on my current tech-stack but also network and collaborate with other creative developers.<br>🎲 Fun fact: In 2023 I played music for 92,185 minutes only through Spotify alone or else 64 days non-stop.</p>
 
-My focus is on digital a11y , while  improving on Javascript, React.js, Next.js, HTML, CSS, Tailwind, and Figma.
-I'm all in for adapting, constantly learning and getting better, big on teamwork and collaborations. They keep me inspired and help me grow.
+###
 
+<h2 align="left">I code with</h2>
 
-### ⚙️ Tech Stack
+###
 
-![Bootstrap](https://img.shields.io/badge/-HTML5%20-05122A?style=for-the-badge&logo=HTML5&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Tailwindcss-05122A?style=for-the-badge&logo=Tailwindcss&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=Javascript&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-next.js-05122A?style=for-the-badge&logo=next.js&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=Typescript&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=Node.js&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Postgres-05122A?style=for-the-badge&logo=Postgres&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma&color=ffffff)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyn1ko&show_icons=true&locale=en&layout=compact" alt="heyn1ko" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=heyn1ko&" alt="heyn1ko" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-
----
+###
